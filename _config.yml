@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: 
 copyright_name: Your/Project/Corporate Name
 description: "孔子云：何陋之有？"
-baseurl: ""
+baseurl: "http://yourdomain.com"
 url: ""
 twitter_username: 
 github_username:  
