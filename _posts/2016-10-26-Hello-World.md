@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:       "Hello World!"
-sudtitle: "开篇语"
+subtitle: "开篇语"
 date:        2016-10-26 21:44:00
 tags:        杂谈
 author:   "白空空"
