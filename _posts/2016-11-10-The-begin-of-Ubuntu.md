@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: "从Ubuntu开始"
+title: "从Ubuntu开始"
 subtitle: "日常使用篇"
 date： 2016-11-10 15:30:00
 tags: Ubuntu
