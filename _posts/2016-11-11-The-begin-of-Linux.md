@@ -3,7 +3,7 @@ layout: post
 title: "从Linux开始"
 subtitle: "初识开源"
 date: 2016-11-11 15:57:00
-tags: 杂感
+tags: 杂谈
 author: "白空空"
 ---
 
